@@ -1,5 +1,5 @@
 document.addEventListener("DOMContentLoaded", function() {
-    const startBtn = document.getElementById("startBtn");
+    const startBtn = document.getElementById("Btn");
   
     startBtn.addEventListener("click", function() {
       // Rediriger vers la page du jeu
